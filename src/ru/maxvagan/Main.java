@@ -35,5 +35,6 @@ public class Main {
             itemYear += periodOfIncome;
         }
         System.out.println("В следующий раз, когда мы сможем её наблюдать, будет " + itemYear + " год");
+//      Для ПР!
     }
 }
